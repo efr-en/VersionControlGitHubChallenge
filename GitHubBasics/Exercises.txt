@@ -1,0 +1,17 @@
+GitHub Basics Content
+1. The MacOS Terminal is a CLI (command-line interface) where you can directly communicate with the Mac’s operating system.  It’s based on UNIX and is the computer without the GUI (graphical user interface).
+
+2. Although they work hand in hand, Git is a version control system that tracks and manages changes to files/code over time. GitHub is a SaaS (cloud-based) website where Git can be stored, shared, and worked on with others. I prefer to think Git is the software, and GitHub is the storage.
+
+3. To fork a repository on GitHub using the Mac browser, you must...
+	1)	Navigate to the desired repository on GitHub
+	2)	Click Fork in the top-right corner of the page (looks like T with circles at each end)
+	3)	Under “Owner”, select the dropdown menu and click an owner for the forked repo
+	4)	Choose to distinguish your fork in the “repository name” field, if not forks are named after their upstream repositories
+	5)	Choose if you want to type a description of your fork in the “Description” field
+	6)	Choose if you want to select “Copy the DEFAULT branch only”, if not, all branches get copied into the new fork
+	7)	Click Create Fork
+
+SIDENOTES!
+Upstream repository = Original repository
+Forks are used for proposing changes/ideas to someone else’s project without affecting the original code
